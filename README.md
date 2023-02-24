@@ -7,7 +7,7 @@ em cima de outro de mesma cor.\
 \
 O gameplay consiste em clicar no botão do vidro a qual se quer retirar o líquido e depois clicar no\
 botão do vidro a qual se quer colocar o líquido. 
-Concluida uma fase, pode-se finalizar o jogo ou ir para a próxima fase.\
+Concluida uma fase, pode-se finalizar o jogo ou ir para a próxima fase.
 
 # O projeto
 Projeto feito na disciplina de Algoritmos e Estruturas de Dados na graduação no segundo semestre da graduação\
